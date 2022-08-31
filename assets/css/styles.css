@@ -69,7 +69,9 @@ body {
     border: 2px solid #33A8DD80; 
 }
 
-
+section {
+    margin: 100px auto;
+}
 
 
 
