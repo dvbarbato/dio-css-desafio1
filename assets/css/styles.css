@@ -115,5 +115,13 @@ h2 {
     border-bottom: 1px solid #33A8DB80;
 }
 
+#transform-world p {
+    text-transform: lowercase;
+    font-size: 40px;
+    font-weight: 900;
+    max-width: 250px;
+    text-align: left;
+    text-shadow: 3px 2px #33A8DB;
+}
 
 
