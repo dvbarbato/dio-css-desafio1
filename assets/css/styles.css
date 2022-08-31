@@ -73,5 +73,14 @@ section {
     margin: 100px auto;
 }
 
+h2 {
+    font-weight: bold;
+    font-size: 32px;
+    text-transform: uppercase;
+    color: #33A8DB;
+    margin-bottom: 24px;
+    letter-spacing: 4px;
+}
+
 
 
