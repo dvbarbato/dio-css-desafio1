@@ -87,6 +87,23 @@ h2 {
     letter-spacing: 4px;
 }
 
+#course-content .modules-list {
+    margin: 24px 0;
+}
+
+#course-content .modules-list .module {
+    width: 530px;
+    margin: 0 auto 24px;
+    background-color: #252525;
+    border: 1px solid #33A8DB;
+    padding: 16px;
+    border-radius: 100px;
+    box-shadow: inset -5px 6px 8px rgba(0, 0, 0, 0.7);
+}
+
+#course-content .modules-list .module span {
+    color: #33A8DB;
+}
 
 
 
