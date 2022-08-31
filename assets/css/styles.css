@@ -73,6 +73,11 @@ section {
     margin: 100px auto;
 }
 
+#course-content {
+    text-align: center;
+    width: 800px;
+}
+
 h2 {
     font-weight: bold;
     font-size: 32px;
@@ -81,6 +86,7 @@ h2 {
     margin-bottom: 24px;
     letter-spacing: 4px;
 }
+
 
 
 
